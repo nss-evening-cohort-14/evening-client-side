@@ -1,6 +1,8 @@
 # HW Week 0 - Things to do before class!!!
 
-In a few short days we'll start our journey together to learn the basics of modern front-end web development. In the interest of getting off to a running start, here are some things that you can do to help the instruction team:
+In a few short days we'll start our journey together to learn the basics of modern front-end web development. In the interest of getting off to a running start, here are some things that you can do to help the instruction team.
+
+Start at the top of this list and work your way down.  Things are listed in priority order.  Finish #1 below before you go on to #2 and so on and so forth.
 
 ## General Admin Things
 1. Complete this form: [General Information](https://forms.gle/GxPgRN5hD8iknWR38)
