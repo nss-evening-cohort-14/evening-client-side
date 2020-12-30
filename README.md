@@ -3,14 +3,16 @@
 <!-- UPDATE THE DATES FOR THE WEEKS -->
 | Week | Topic |
 |---|---|
-| [Week 0](./week00/README.md) | Just a few Things |
-| [Week 1](./week01/README.md) | Getting Started |
-| [Week 2](./week02/README.md) | HTML/CSS/Flexbox |
-| [Week 3](./week03/README.md) | JS, Dev Tools, DOM |
-| [Week 4](./week04/README.md) | Event Listeners, Callbacks, Bootstrap |
-| [Week 5](./week05/README.md) | Wireframes, github projects & teams, how to plan |
-| [Week 6](./week06/README.md) | :jeans: Group Project - Pants :jeans: |
-| [Week 7](./week07/README.md) | Pants demos, retrospective, markdown, Basic ES6 Modules |
+| Week 0 | Just a few Things |
+| Week 1 | Getting Started |
+| Week 2 | HTML/CSS/Flexbox |
+| Week 3 | JS, Dev Tools, DOM |
+| Week 4 | Event Listeners, Callbacks, Bootstrap |
+| Week 5 | :jeans: Group Project - Pants :jeans: |
+| Week 6 | Q1 Milestone Assessment |
+
+
+<!-- | [Week 7](./week07/README.md) | Pants demos, retrospective, markdown, Basic ES6 Modules |
 | [Week 8](./week08/README.md) | JQuery, Browser Storage |
 | [Week 9](./week09/README.md) | Task runners, SASS |
 | [Week 10](./week10/README.md) | :speech_balloon: Group Project - Chatty :speech_balloon:|
@@ -26,4 +28,4 @@
 | [Week 20](./week20/README.md) | REACT |
 | [Week 21](./week21/README.md) | REACT |
 | [Week 22](./week21/README.md) | REACT |
-| [Weeks 23 - 24](./weeks22-25) | CAPSTONES |
+| [Weeks 23 - 24](./weeks22-25) | CAPSTONES | -->
