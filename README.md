@@ -8,7 +8,7 @@
 | Week 2 | HTML/CSS/Flexbox |
 | Week 3 | JS, Dev Tools, DOM |
 | Week 4 | Event Listeners, Callbacks, Bootstrap |
-| Week 5 | :jeans: Group Project - Pants :jeans: |
+| Week 5 | Group Project |
 | Week 6 | Q1 Milestone Assessment |
 
 
