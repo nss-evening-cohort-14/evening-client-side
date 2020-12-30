@@ -3,6 +3,10 @@
 <!-- UPDATE THE DATES FOR THE WEEKS -->
 | Week | Topic |
 |---|---|
-| [Week 0](./week00/README.md) | Just a few Things |
-| [Week 1](./week01/README.md) | Getting Started |
-| [Week 2](./week02/README.md) | HTML/CSS/Flexbox |
+| Week 0 | Just a few Things |
+| Week 1 | Getting Started |
+| Week 2 | HTML/CSS/Flexbox |
+| Week 3 | JS, Dev Tools, DOM |
+| Week 4 | Event Listeners, Callbacks, Bootstrap |
+| Week 5 | :jeans: Group Project - Pants :jeans: |
+| Week 6 | Q1 Milestone Assessment |
