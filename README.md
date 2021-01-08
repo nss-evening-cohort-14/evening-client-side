@@ -7,8 +7,8 @@
 | Week 2 | HTML/CSS/Flexbox |
 | Week 3 | JS, Dev Tools, DOM |
 | Week 4 | Event Listeners, Callbacks, Bootstrap |
-| Week 5 | Group Project |
-| Week 6 | Q1 Milestone Assessment |
+| Week 5 | In Class Project |
+| Week 6 | Group Project |
 
 
 <!-- | [Week 7](./week07/README.md) | Pants demos, retrospective, markdown, Basic ES6 Modules |
