@@ -4,7 +4,7 @@
 | Week | Topic |
 |---|---|
 | Week 1 | Getting Started |
-| Week 2 | HTML/CSS/Flexbox |
+| Week 2 | HTML/CSS/Flexbox, [Intro to JS](https://github.com/nss-evening-cohort-14/js-intro-14) |
 | Week 3 | JS, Dev Tools, DOM |
 | Week 4 | Event Listeners, Callbacks, Bootstrap |
 | Week 5 | In Class Project |
