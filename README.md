@@ -9,7 +9,7 @@
 | Week 4 | Event Listeners, Callbacks, Bootstrap |
 | Week 5 | In Class Project |
 | Week 6 | Group Project - GitSub |
-| Week 7 | GitSub demos, Basic ES6 Modules |
+| Week 7 | GitSub demos, Webpack, Modular Code |
 | Week 8 | Firebase, Promises, ERDs |
 | Week 9 | Firebase CRUD |
 | Week 10 | Individual Project |
