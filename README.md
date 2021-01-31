@@ -8,8 +8,12 @@
 | Week 3 | JS, Dev Tools, DOM |
 | Week 4 | Event Listeners, Callbacks, Bootstrap |
 | Week 5 | In Class Project |
-| Week 6 | Group Project |
-
+| Week 6 | Group Project - GitSub |
+| Week 7 | GitSub demos, Basic ES6 Modules |
+| Week 8 | Firebase, Promises, ERDs |
+| Week 9 | Firebase CRUD |
+| Week 10 | Individual Project |
+| Week 11 - 12 | Group Project: Nutshell |
 
 <!-- | [Week 7](./week07/README.md) | Pants demos, retrospective, markdown, Basic ES6 Modules |
 | [Week 8](./week08/README.md) | JQuery, Browser Storage |
