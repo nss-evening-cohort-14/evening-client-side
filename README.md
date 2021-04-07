@@ -14,6 +14,18 @@
 | Week 9 | Firebase CRUD |
 | Week 10 | Individual Project |
 | Week 11 - 12 | Group Project: Nutshell |
+| BREAK | BREAK |
+| Week 13 | Nutshell, Postman |
+| Week 14 | Nutshell, Intro to React |
+| Week 15 | REACT |
+| Week 16 | REACT |
+| Week 17 | REACT |
+| Week 18 | REACT |
+| Week 19 | REACT |
+| Week 20 | REACT |
+| Week 21 | REACT |
+| Week 22 | REACT |
+| Weeks 23 - 24 | CAPSTONES |
 
 <!-- | [Week 7](./week07/README.md) | Pants demos, retrospective, markdown, Basic ES6 Modules |
 | [Week 8](./week08/README.md) | JQuery, Browser Storage |
