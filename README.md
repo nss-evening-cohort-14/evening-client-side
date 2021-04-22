@@ -20,11 +20,11 @@
 | Week 15 | REACT |
 | Week 16 | REACT |
 | Week 17 | REACT |
-| Week 18 | REACT |
-| Week 19 | REACT |
+| Week 18 | Group Project |
+| Week 19 | Group Project |
 | Week 20 | REACT |
-| Week 21 | REACT |
-| Week 22 | REACT |
+| Week 21 | Individual Student Project |
+| Week 22 | Individual Student Project |
 | Weeks 23 - 24 | CAPSTONES |
 
 <!-- | [Week 7](./week07/README.md) | Pants demos, retrospective, markdown, Basic ES6 Modules |
